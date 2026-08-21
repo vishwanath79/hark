@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+
+# Secrets and local config
+.env
+
+# Run output
+results.md
+models/
+
+# Blog / write-up working folder - never publish
+harkonepager/
+
+# macOS
+.DS_Store
+
+# Internal notes - keep local
+plan.md
+errors.md
+
+# Local backups
+_backup/
